@@ -17,11 +17,10 @@ My research interests include distributed optimization, large-scale machine lear
 
 Publications
 ======
-* Accelerated Distributed Stochastic Non-Convex Optimization over Time-Varying Directed Networks (https://ieeexplore.ieee.org/abstract/document/10094584)
+* [Accelerated Distributed Stochastic Non-Convex Optimization over Time-Varying Directed Networks](https://ieeexplore.ieee.org/abstract/document/10094584)  
   ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
-* Paper 2
-  IEEE
-
-
-* 
-* 
+* [Communication-efficient variance-reduced decentralized stochastic optimization over time-varying directed graphs](https://ieeexplore.ieee.org/abstract/document/9640474)  
+  IEEE Transactions on Automatic Control
+* [Decentralized optimization on time-varying directed graphs under communication constraints](https://ieeexplore.ieee.org/abstract/document/9415052)  
+  ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+* [Federated Learning with Infrastructure Resource Limitations in Vehicular Object Detection](https://ieeexplore.ieee.org/abstract/document/9708936)
