@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Graduate teaching Assistant experience
+Graduate teaching assistant experience
 ======
 * Statistical Machine Learning, Spring 2020
 * Probability and Random Processes I, Fall 2020 and 2021
