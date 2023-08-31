@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is Yiyue's home!
 
-I am currently a final-year PhD Candidate at The University of Texas at Austin. My academic track is Decision, Information, and Communications Engineering (DICE) in Electrical and Computer Engineering department. I am fortunate to be supervised Dr. Haris Vikalo. I received my MSE degree in Electrical and Computer Engineering deparment at UT Austin in 2020 and BS degree in Applied Mathematics from Wuhan University in 2018.
+My name is Yiyue Chen (陈祎玥) and I am currently a final-year PhD student at The University of Texas at Austin. My academic track is Decision, Information, and Communications Engineering (DICE) in Electrical and Computer Engineering department. I am fortunate to be supervised Dr. Haris Vikalo. I received my MSE degree in Electrical and Computer Engineering deparment at UT Austin in 2020 and BS degree in Applied Mathematics from Wuhan University in 2018.
 
 Research Interests
 ======
