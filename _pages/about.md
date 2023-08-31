@@ -15,3 +15,13 @@ Research Interests
 ======
 My research interests include distributed optimization, large-scale machine learning and self-supervised learning under resource constraints. I have designed, implemented and analyzed efficient distributed optimization algorithms over directed and time-varying networks.
 
+Publications
+======
+* Accelerated Distributed Stochastic Non-Convex Optimization over Time-Varying Directed Networks (https://ieeexplore.ieee.org/abstract/document/10094584)
+  ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+* Paper 2
+  IEEE
+
+
+* 
+* 
