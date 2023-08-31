@@ -13,8 +13,4 @@ Graduate teaching Assistant experience
 * Probability and Random Processes I, Fall 2020 and 2021
 * Convex Optimization, Fall 2019
 
-<ul>
-  <li>111</li>
-  <li>222</li>
-  <li>333</li>
-</ul> 
+
