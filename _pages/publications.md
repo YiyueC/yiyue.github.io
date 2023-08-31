@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Recent publications:
+======
+1. ICASSP paper
+2. IEEE Transaction
