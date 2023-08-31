@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics, Wuhan University, 2018
-* M.S. in Electrical and Computer Engineering, The University of Texas at Austin, 2020
-* Ph.D in Electrical and Computer Engineering, The University of Texas at Austin, 2023 (expected)
+* B.S. in Applied Mathematics, Wuhan University, 2014 - 2018
+* M.S. in Electrical and Computer Engineering, The University of Texas at Austin, 2018 - 2020
+* Ph.D in Electrical and Computer Engineering, The University of Texas at Austin, 2018 - present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Interim Engineering Intern at Qualcomm, CA, USA
+  * Studied Qualcomm Research's project on multi-vendor training for cross-node ML based CSI feedback
+  * Proposed the training methodologies to prove that heterogeneous neural network models from multiple UE vendors can train together with a gNB vendor
+  * Implemented the algorithms in PyTorch to show they achieve near optimal performance and interoperability during inference
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2021: Machine Learning Research Intern at Toyota InfoTechnology Lab, CA, USA
+  * Designed the federated learning framework for the object detection task on vehicle cameras
+  * Proposed the algorithm that addresses the client heterogeneity in local data and computation resource and achieved communication and computation efficiency
+  * Implemented the algorithm in Tensorflow and justified that the algorithm reaches 88 accuracy while reducing 35% communication cost and 66% training time
   
 Skills
 ======
