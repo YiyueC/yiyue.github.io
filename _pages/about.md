@@ -20,7 +20,8 @@ Publications
 * [Accelerated Distributed Stochastic Non-Convex Optimization over Time-Varying Directed Networks](https://ieeexplore.ieee.org/abstract/document/10094584)  
   ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 * [Communication-efficient variance-reduced decentralized stochastic optimization over time-varying directed graphs](https://ieeexplore.ieee.org/abstract/document/9640474)  
-  IEEE Transactions on Automatic Control
+  IEEE Transactions on Automatic Control 67 (12), 6583-6594
 * [Decentralized optimization on time-varying directed graphs under communication constraints](https://ieeexplore.ieee.org/abstract/document/9415052)  
   ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
-* [Federated Learning with Infrastructure Resource Limitations in Vehicular Object Detection](https://ieeexplore.ieee.org/abstract/document/9708936)
+* [Federated Learning with Infrastructure Resource Limitations in Vehicular Object Detection](https://ieeexplore.ieee.org/abstract/document/9708936)  
+  2021 IEEE/ACM Symposium on Edge Computing (SEC)
