@@ -41,16 +41,12 @@ Professional services
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [Accelerated Distributed Stochastic Non-Convex Optimization over Time-Varying Directed Networks](https://ieeexplore.ieee.org/abstract/document/10094584) Y. Chen, A. Hashemi and H. Vikalo, ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSP49357.2023.10094584.
+
+* [Communication-Efficient Variance-Reduced Decentralized Stochastic Optimization Over Time-Varying Directed Graphs](https://ieeexplore.ieee.org/abstract/document/9640474) Y. Chen, A. Hashemi and H. Vikalo, in IEEE Transactions on Automatic Control, vol. 67, no. 12, pp. 6583-6594, Dec. 2022, doi: 10.1109/TAC.2021.3133372.
+ 
+* [Decentralized optimization on time-varying directed graphs under communication constraints](https://ieeexplore.ieee.org/abstract/document/9415052) Y. Chen, A. Hashemi and H. Vikalo, ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, ON, Canada, 2021, pp. 3670-3674, doi: 10.1109/ICASSP39728.2021.9415052.
+ 
+* [Federated Learning with Infrastructure Resource Limitations in Vehicular Object Detection](https://ieeexplore.ieee.org/abstract/document/9708936) Y. Chen, C. Wang and B. Kim, 2021 IEEE/ACM Symposium on Edge Computing (SEC), San Jose, CA, USA, 2021, pp. 366-370, doi: 10.1145/3453142.3491412.
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
