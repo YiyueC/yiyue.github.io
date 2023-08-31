@@ -145,7 +145,7 @@ exclude:
   - node_modules
   - package.json
   - tmp
-  - vendor
+  
 exclude: [
   "vendor"
 ]
