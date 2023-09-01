@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics, Wuhan University, 2014 - 2018
-* M.S. in Electrical and Computer Engineering, The University of Texas at Austin, 2018 - 2020
 * Ph.D in Electrical and Computer Engineering, The University of Texas at Austin, 2018 - present
+* M.S. in Electrical and Computer Engineering, The University of Texas at Austin, 2018 - 2020
+* B.S. in Applied Mathematics, Wuhan University, 2014 - 2018
 
 Work experience
 ======
