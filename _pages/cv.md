@@ -19,7 +19,7 @@ Work experience
 ======
 * Summer 2022: Interim Engineering Intern at Qualcomm, CA, USA
   * Studied Qualcomm Research's project on multi-vendor training for cross-node ML based CSI feedback
-  * Proposed the training methodologies to prove that heterogeneous neural network models (including Transformer and CNN models) from multiple UE vendors can train together with a gNB vendor
+  * Proposed the training methodologies to prove that heterogeneous neural network models (including Transformer and CNN) from multiple UE vendors can train together with a gNB vendor
   * Implemented the algorithms in PyTorch to show they achieve near optimal performance and interoperability during inference
 
 * Spring 2021: Machine Learning Research Intern at Toyota InfoTechnology Lab, CA, USA
