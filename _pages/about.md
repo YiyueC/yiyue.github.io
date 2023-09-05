@@ -13,7 +13,7 @@ My name is Yiyue Chen (陈祎玥) and I am currently a final-year PhD student at
 
 Research Interests
 ======
-My research interests include distributed optimization, large-scale machine learning and self-supervised learning under resource constraints. I am passionate about developing and understanding machine learning/deep learning algorithms for real world challenges. In particular, my focus is on learning over dynamic networks and heterogeneous-resource agents. When the network is directed and time-varying, I have designed, implemented and analyzed efficient distributed optimization algorithms. In dealing with the resource-heterogeneous clients, I have proposed a unique algorithm that can address multiple heterogeneities with both theoretical and experimental demonstration.
+My research interests include distributed optimization, large-scale machine learning and self-supervised learning under resource constraints. I am passionate about developing and understanding machine learning/deep learning algorithms for real world challenges. In particular, my focus is on learning over dynamic networks and heterogeneous-resource agents. When the network is directed and time-varying, I have designed, implemented and analyzed efficient distributed optimization algorithms. In dealing with the resource-heterogeneous clients, I have proposed a unique algorithm that can address multiple heterogeneities with both theoretical and experimental demonstration. Moreover, I have extensive industry experience on researching and establishing AI-based solutions to practical problems.
 
 Publications
 ======
