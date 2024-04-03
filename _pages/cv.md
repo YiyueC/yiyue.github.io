@@ -37,7 +37,7 @@ Professional services
 * Journal reviewer:
   * IEEE Transactions on Automatic Control, IEEE Transactions on Signal Processing
 * Conference reviewer:
-  * AISTATS (2023, 2024), ICASSP (2023, 2024), MLSP (2023), CDC (2022),    
+  * ICML (2024), AISTATS (2023, 2024), ICASSP (2023, 2024), MLSP (2023), CDC (2022)    
 
 Publications
 ======
