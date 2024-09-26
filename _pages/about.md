@@ -17,7 +17,7 @@ My research interests include distributed optimization, large-scale machine lear
 
 Publications
 ======
-* Accelerated Distributed Stochastic Non-Convex Optimization over Time-Varying Directed Networks
+* Accelerated Distributed Stochastic Non-Convex Optimization over Time-Varying Directed Networks. 
   IEEE Transactions on Automatic Control, 2024
 * [Fed-QSSL: A Framework for Personalized Federated Learning under Bitwidth and Data Heterogeneity](https://arxiv.org/pdf/2312.13380.pdf), 
   the 38th AAAI Conference on Artificial Intelligence (AAAI-24)
